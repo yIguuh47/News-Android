@@ -1,6 +1,5 @@
 package com.example.newsapp
 
-import android.net.Uri
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.DefaultItemAnimator
@@ -59,9 +58,5 @@ class MainActivity : AppCompatActivity() {
         binding.rvNoticias.layoutManager = LinearLayoutManager(applicationContext)
         binding.rvNoticias.itemAnimator = DefaultItemAnimator()
         binding.rvNoticias.adapter = adapter
-    }
-
-    fun gotoUrl(url: String){
-        val uri = Uri.parse("http://www.google.com")
     }
 }
