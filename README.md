@@ -3,7 +3,6 @@
 <p align="center">
 <a href="#sobre">Sobre</a> - 
 <a href="#interface">Interface do Usuario</a> - 
-<a href="#demonstração">Demonstração</a> - 
 <a href="#tecnologias">Tecnologias</a> - 
 <a href="#requisitos">Requisitos</a> - 
 <a href="#autor">Autor</a> 
@@ -19,11 +18,6 @@ App Basico Desenvolvido para matar as saudades do desenvolvimento Android e da l
 <img src="https://user-images.githubusercontent.com/74266068/193097781-e1a5dede-8cf0-4589-a30d-fee8598f740d.png" width="350px"/>
 <img src="https://user-images.githubusercontent.com/74266068/193097796-682fc9ff-9c1b-41fa-9709-94f44bdb733a.png" width="350px"/>
 <img src="https://user-images.githubusercontent.com/74266068/193097808-563712da-d728-498d-a217-75929cab1cc8.png" width="350px"/>
-</p>
-
-# Demonstração
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74266068/130084097-1563ba56-7627-454e-be41-68e0a13f1fcb.gif"/>
 </p>
 
 # Tecnologias
