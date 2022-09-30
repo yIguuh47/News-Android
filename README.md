@@ -1,4 +1,4 @@
-<h1 align="center">App-De-Tarefas-BootCamp-Santander</h1>
+<h1 align="center">News-Android</h1>
 
 <p align="center">
 <a href="#sobre">Sobre</a> - 
@@ -29,7 +29,8 @@ App Basico Desenvolvido para matar as saudades do desenvolvimento Android e da l
 # Tecnologias
 
 - [x] [Kotlin](https://kotlinlang.org/)
-- [x] [ROOM](https://developer.android.com/training/data-storage/room)
+- [x] [Picasso](https://github.com/square/picasso)
+- [x] [Retrofit](https://square.github.io/retrofit/)
 
 # Requisitos
 ### Pré-requisitos: [Git](https://git-scm.com/), [Java 11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) e [Android Studio](https://developer.android.com/studio)
@@ -37,7 +38,7 @@ Apos ter cumprito todos os pré-requisitos faça:
 ```bash
 # Abra o Gith Bash no local em que voce irá clonar o projeto e de um:
 
-git clone https://github.com/yIguuh47/App-De-Tarefas-BootCamp-Santander.git
+git clone https://github.com/yIguuh47/News-Android.git
 
 # Após isso feche o Gith Bash e abra o Android Studio, procure pelo arquivo e está feito. 🚀
 

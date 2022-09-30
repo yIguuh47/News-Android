@@ -10,7 +10,6 @@ class RetrofitService private constructor(){
 
         private lateinit var  retrofit: Retrofit
         private const val  BASE_URL = "https://newsapi.org/v2/"
-//        private const val  BASE_URL = "https://jsonplaceholder.typicode.com/"
 
         private fun getRetrofitInstance(): Retrofit {
             val httpClient = OkHttpClient.Builder()

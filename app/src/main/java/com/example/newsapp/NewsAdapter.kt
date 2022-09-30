@@ -15,8 +15,6 @@ import com.squareup.picasso.Picasso
 class NewsAdapter(val context: Context,
                   val itens: NewsModel):RecyclerView.Adapter<NewsViewHolder>() {
 
-    var mainActivity = MainActivity()
-
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): NewsViewHolder {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.item_cell_news, parent, false)
         val holder = NewsViewHolder(view)
